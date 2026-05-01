@@ -3,6 +3,7 @@ import { Footer } from "@/components/Footer";
 import { CartDrawer } from "@/components/CartDrawer";
 import { BottomTab } from "@/components/BottomTab";
 import { AgeGate } from "@/components/AgeGate";
+import { WhatsAppFloat } from "@/components/WhatsAppFloat";
 
 export default function StoreLayout({
   children,
@@ -17,6 +18,7 @@ export default function StoreLayout({
       <Footer />
       <BottomTab />
       <CartDrawer />
+      <WhatsAppFloat />
     </div>
   );
 }
