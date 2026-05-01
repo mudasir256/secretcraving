@@ -6,7 +6,7 @@ A cozy, full-featured e-commerce site for a clothing brand (inspired by [Lama Re
 
 - **Categories**: Woman, Man, Kids, Shoes, Accessories (Belts, Caps, Bags), Fragrance & Living
 - **Product catalog**: Browse by category with mock data for men’s, women’s, and kids’ wear, shoes, belts, caps, bags, and fragrance
-- **Add to cart**: Add items from product cards or product page; cart drawer and full cart page with quantity controls
+- **Add to cart**: Add i add ems from product cards or product page; cart drawer and full cart page with quantity controls
 - **Search**: Search products by name, color, or category
 - **Design**: Warm, cozy theme (cream/oat background, serif + sans fonts, soft accents)
 
